@@ -7,3 +7,4 @@
    - (또는) http://vision.stanford.edu/aditya86/ImageNetDogs/
    - 캐글 평가방법 : multi class logarithmic loss를 이용하여 품종을 맞췄는지 정확도 측정
    - 데이터 구성 : 각기 다른 사이즈의 이미지와 품종
+3. Cutmix, Mixup 
